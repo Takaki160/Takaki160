@@ -1,4 +1,9 @@
-## Hi there 👋
+## Zhaoyang Zhang
+### Nanjing University | Buisness School
+- I'm currently working on quantitive methods in economics & finance
+- I'm currently learning Python, R, and Stata
+- How to reach me: 15810472681@163.com
+- Hobby: piano & basketball
 
 <!--
 **Takaki160/Takaki160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
