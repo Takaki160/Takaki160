@@ -1,6 +1,6 @@
 ## Zhaoyang Zhang
 ### Nanjing University | Buisness School
-- I'm currently working on quantitive methods in economics & finance
+- I'm currently working on quantitative methods in economics & finance
 - I'm currently learning Python, R, and Stata
 - How to reach me: 15810472681@163.com
 - Hobby: piano & basketball
