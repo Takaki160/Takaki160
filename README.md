@@ -1,10 +1,13 @@
-## Zhaoyang Zhang
-### University of California, Los Angeles | Master of Quantitative Economics 27'
-### Nanjing University | Bachelor of Economics 25'
-- I'm currently working on quantitative methods in economics & finance
+# Zhaoyang Zhang
+
+**University of California, Los Angeles** | *Master of Quantitative Economics 27'*
+
+**Nanjing University** | *Bachelor of Economics 25'*
+
+- I'm currently working on quantitative analysis in economics & finance
 - I'm currently learning Python, R, and Stata
-- How to reach me: 15810472681@163.com
 - Hobby: piano & basketball
+- How to reach me: 15810472681@163.com
 
 <!--
 **Takaki160/Takaki160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
