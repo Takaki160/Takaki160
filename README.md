@@ -5,7 +5,7 @@
 **Nanjing University** | *Bachelor of Economics 25'*
 
 - I'm currently working on quantitative analysis in economics & finance
-- I'm currently learning Python, R, and Stata
+- I'm currently learning Python, SQL and Stata
 - Hobby: piano & basketball
 - How to reach me: 15810472681@163.com
 
